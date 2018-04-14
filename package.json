@@ -1,0 +1,19 @@
+{
+  "name": "163music-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plupload": "^2.3.2",
+    "qiniu": "^7.1.3",
+    "qiniu-js": "^1.0.24"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
